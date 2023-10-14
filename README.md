@@ -1,12 +1,18 @@
 # Match Order Engine
 
-## Starting Frontend
+## Setup and Demo Video
+
+https://youtu.be/mDbc8ILJlrk
+
+## Getting Started
+
+### Starting Frontend
 Run the following commands in Terminal
 1. `cd client`
 2. `npm i`
 3. `npm run dev`
 
-## Starting Backend
+### Starting Backend
 
 Use Java18 SDK
 
